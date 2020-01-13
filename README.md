@@ -1,2 +1,2 @@
 # disjunct_projects
-Separate Projects throughout college.
+Separate projects throughout college.
